@@ -1,10 +1,6 @@
 made by casperfemboi
 @2026
 
-You are currently viewing the official audio project files for the HTL Arcade.
-If you're wondering what .cwp(cake-walk-project) files are, every piece was made using CakeWalk Sonar as DAW.
-You will find finished and exported projects in the corresponsive "Audio Export" folder of every project.
+official soundtrack files of the HTL Arcade made by Daftvoid
 
-You can get MIDI files through opening the desired project in CakeWalk and exporting as MIDI file.
-
-
+CakeWalk Sonar was used for all the projects here
